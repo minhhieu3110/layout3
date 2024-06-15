@@ -41,13 +41,13 @@
     margin-top: 100px;
 }
 .header-body{
-    margin: 5px 0px 10px;
+    margin: 5px 20px;
     width: 75%;
     height: 100%;
     /*background: #a9a3a3;*/
 }
 .header{
-    margin: 5px 0px 10px;
+    margin: 5px 020px 10px;
     width: 100%;
     height: calc(30% - 10px);
     background: #a9a3a3;
@@ -56,7 +56,7 @@
     justify-content: center;
 }
 .body{
-    margin: 5px 0px 10px;
+    margin: 5px 20px 10px;
     width: 100%;
     height: 70%;
     background: #a9a3a3;
